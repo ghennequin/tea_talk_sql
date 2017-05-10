@@ -1,0 +1,44 @@
+.reveal body { font-family: Linux Biolinum O, Droid Sans, Arial, sans-serif;
+  color: #ffd066; }
+.reveal h1 { font-size: 180%; color: #ffd066; }
+.reveal h2 { font-size: 180%; color: #ffd066; }
+
+.important { color: #fc9272; font-weight: bold; }
+
+#mytable
+{
+	margin: 1em;
+	width: 480px;
+	text-align: center;
+	border-collapse: collapse;
+	border-top: 2px solid #aaa;
+	border-bottom: 2px solid #aaa;
+}
+
+#mytable thead th
+{
+	font-weight: bold;
+	padding: 8px;
+	background: #aaa;
+	border-right: 1px solid #aaaaaa;
+	border-left: 1px solid #aaaaaa;
+	color: #000;
+}
+#mytable th
+{
+	font-weight: normal;
+	padding: 8px;
+	background: #555555;
+	border-right: 1px solid #aaaaaa;
+	border-left: 1px solid #aaaaaa;
+	color: #dddddd;
+}
+#mytable td
+{
+	padding: 8px;
+	background: #0k0; 
+	border-right: 1px solid #aaaaaa;
+	border-left: 1px solid #aaaaaa;
+	color: #dddddd;
+}
+ 
